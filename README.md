@@ -51,7 +51,7 @@ AI-powered Postgres performance doctor
 
   This project is being built in public. Follow along:
   - 🌐  https://pgsage.dev (coming soon)
-  - 🐦 hX: @pgsageHQ (https://x.com/pgsageHQ) (coming soon)
+  - 🐦 hX: @pgsageHQ (https://x.com/pgsageHQ)
 
   License
 
