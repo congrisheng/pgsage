@@ -1,3 +1,6 @@
+> 🚧  Pre-launch — currently in private development.
+     > Public source code release: ~W4-W8.
+     > Follow @pgsageHQ for updates.
 # pgsage
 AI-powered Postgres performance doctor
 # pgsage 🐘 🩺 
